@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scarletYewon
-- 👀 I’m interested in Web/Frontend
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Web/Mobile Frontend
+- 🌱 I’m currently learning Android(withKotlin)
 - 💞️ I’m looking to collaborate on .....?
 - 📫 How to reach me -> kwn09032@gmail.com
 
